@@ -1,4 +1,6 @@
-Extraí informações, construí gráficos e organizei um dashboard gerencial com as informações 
+painel Gerencial de receita e úsuario da empresa marketing digital
+
+no trabalho conseguir extraí informações relevantes, construí gráficos e organizei um dashboard gerencial com as informações 
 mais relevantes para uma agência de marketing digital. Defini as visualizações que trouxeram
 os dados mais úteis para a gestão da agência e trabalhei para garantir que os dados sejam simples
 de serem analisados e estejam devidamente atualizados.
